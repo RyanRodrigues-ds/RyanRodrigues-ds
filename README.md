@@ -5,7 +5,7 @@
 Me chamo Ryan Rodrigues, tenho 20 anos e estou no 5º período de Ciência da Computação.
 Desde 2023 venho desenvolvendo meus conhecimentos por meio de projetos práticos e estudos contínuos.
 <p align="left">
-    <a href="www.linkedin.com/in/ryan-rodrigues-dos-santos">
+    <a href="https: www.linkedin.com/in/ryan-rodrigues-dos-santos">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
